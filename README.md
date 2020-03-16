@@ -1,8 +1,8 @@
 # Konverter Suhu & Kalkulator 2 Angka
 ### Kelompok 2
   * Andri Ilham       (17 111 322)
-  * Hesti Sugesti     (17 111 329)
-  * Siti Muayanah     (17 111 159)
+  * Hesti Sugesti     (17 111 328)
+  * Siti Muayanah     (17 111 139)
 
 Konverter Suhu dan Kalkulator sederhana 2 angka. Project ini untuk memenuhi tugas Mata Kuliah Pemrograman Berbasis Objek 2 semester 6.
 
