@@ -391,13 +391,13 @@ public class Main extends javax.swing.JFrame {
             } else if (select1.getSelectedIndex() == 2 && select2.getSelectedIndex() == 3) {
                 input2.setText(String.valueOf(suhu.kelvin("r", Double.parseDouble(input1.getText()))));
             } else if (select1.getSelectedIndex() == 3 && select2.getSelectedIndex() == 0) {
-                input2.setText(String.valueOf(suhu.kelvin("c", Double.parseDouble(input1.getText()))));
+                input2.setText(String.valueOf(suhu.reamur("c", Double.parseDouble(input1.getText()))));
             } else if (select1.getSelectedIndex() == 3 && select2.getSelectedIndex() == 1) {
-                input2.setText(String.valueOf(suhu.kelvin("f", Double.parseDouble(input1.getText()))));
+                input2.setText(String.valueOf(suhu.reamur("f", Double.parseDouble(input1.getText()))));
             } else if (select1.getSelectedIndex() == 3 && select2.getSelectedIndex() == 2) {
-                input2.setText(String.valueOf(suhu.kelvin("k", Double.parseDouble(input1.getText()))));
+                input2.setText(String.valueOf(suhu.reamur("k", Double.parseDouble(input1.getText()))));
             } else if (select1.getSelectedIndex() == 3 && select2.getSelectedIndex() == 3) {
-                input2.setText(String.valueOf(suhu.kelvin("r", Double.parseDouble(input1.getText()))));
+                input2.setText(String.valueOf(suhu.reamur("r", Double.parseDouble(input1.getText()))));
             }
         } else {
             System.err.println("Inputan Kosong!");
